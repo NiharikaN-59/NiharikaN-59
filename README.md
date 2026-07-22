@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>   ◦  Projects in web development<br>   ◦  Exploring practical applications of LLMs<br>👯 I’m looking to collaborate on<br>   ◦  Student-led or beginner-friendly tech projects<br>   ◦  Web development<br>🤝 I’m looking for help with<br>   ◦  Applying AI/ML concepts in real-world projects<br>   ◦  Placement preparation and interview guidance<br>🌱 I’m currently learning<br>   ◦  Full-stack development<br>💬 Ask me about<br>   ◦  My projects and learning journey<br>   ◦  Getting started web development<br>⚡ Fun fact<br>   ◦  I enjoy combining AI and web apps to build smart solutions 🤖🚀
+🔭 I’m currently working on<br>   ◦  Projects in web development<br>👯 I’m looking to collaborate on<br>   ◦  Student-led or beginner-friendly tech projects<br>   ◦  Web development<br>🤝 I’m looking for help with<br>   ◦  Applying AI/ML concepts in real-world projects<br>   ◦  Placement preparation and interview guidance<br>🌱 I’m currently learning<br>   ◦  Full-stack development<br>💬 Ask me about<br>   ◦  My projects and learning journey<br>   ◦  Getting started web development<br>⚡ Fun fact<br>   ◦  I enjoy combining AI and web apps to build smart solutions 🤖🚀
 
 
 ## 🌐 Socials:
